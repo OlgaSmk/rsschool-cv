@@ -1,2 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=BenchNine:700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+*{margin:0; padding:0; box-sizing:border-box;}
+html,body{
+  height:100%; 
+  background: linear-gradient(left, #E7E7E7, white,#E7E7E7);
+  background: linear-gradient(to right, #E7E7E7, white,#E7E7E7);
+}
+.container{
+  width:100%;
+  height:100%;
+}
