@@ -32,5 +32,10 @@ body {
   vertical-align: top;
 }
 
-
+hr {
+  border: none;
+  color: rgb(49, 57, 179);
+  background-color: rgb(46, 105, 182);
+  height: 1px;
+}
 
