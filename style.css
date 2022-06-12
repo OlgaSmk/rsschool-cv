@@ -12,3 +12,25 @@ body {
   padding: 0 20px;
 }
 
+.header {
+  padding: 20px 0;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.photo,
+.author {
+  display: inline-block;
+}
+
+.author {
+  margin-left: 15px;
+  vertical-align: top;
+}
+
+
+
